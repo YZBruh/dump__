@@ -1,0 +1,98 @@
+# All blobs are from "S11-user 6.0 MRA58K 1504794250 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger|726cebce50eebcc53c15d9a6b4e015188133f193
+lib/libshowlogo.so|58791955f0ca01a7f8e30ad698c6b4541fb3ee60
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|352206dca69076ab6c54e2adbb5de2b12035d8c2
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so|9b9a67d3a0b928b382a0a5837dfeddc3478fae0b
+vendor/lib/mediadrm/libwvdrmengine.so|f797afb341ad0c0e0189010aaf43446cc7c10c4c
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/catcher_filter_1_wg_n.bin|9618900fb1a4619bee4a626ab6313c6baae24ce7
+etc/firmware/modem_1_wg_n.img|0a161192965d0669461ee6731918af6979b8aab0
+etc/firmware/mt6580/mt6580_fm_v1_coeff.bin|9bb8d0c94283afc9bf74cc3e7434ebb91f0047de
+etc/firmware/mt6580/mt6580_fm_v1_patch.bin|5ec5619a756699788b5a5782359a6d731183caa7
+etc/firmware/mt6580/mt6580_fm_v2_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6580/mt6580_fm_v2_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6580/mt6580_fm_v3_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6580/mt6580_fm_v3_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6580/mt6580_fm_v4_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6580/mt6580_fm_v4_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6580/mt6580_fm_v5_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6580/mt6580_fm_v5_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/pcm_deepidle.bin|4006c98ae332fbe0f8be4491efc94f475cf83a59
+etc/firmware/pcm_sodi.bin|a8598b3e374fd14c624eb55e32215623938880b7
+etc/firmware/pcm_suspend.bin|1f0d7ac9db8b6ac08e95137d889f0eee84c735d6
+etc/firmware/ROMv2_lm_patch_1_0_hdr.bin|8aa366180c8902861d204bb6a8a7fb3ad107c519
+etc/firmware/ROMv2_lm_patch_1_1_hdr.bin|38cd03b33059909b64bac76af946bbd565c0476a
+etc/firmware/WIFI_RAM_CODE_6580|69e19accb0f926e7e741653ba55f43651882f2c3
+etc/firmware/WMT_SOC.cfg|bcb7fbba6010d39bb131160481ee27a536347eb2
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/drm/libdrmwvmplugin.so|b3bf64b9beb4ab815d0b6dd9d4a39b3dc889ecc4
+vendor/lib/libwvdrm_L3.so|7e77482481197997294a834bfbc817a01b6075cd
+vendor/lib/libwvm.so|d5fca2c9c75493149e60a39e3e1d2112f2dea576
+vendor/lib/libWVStreamControlAPI_L3.so|61673304827483d44b735a3dd08f0783d10ce92d
+-vendor/operator/app/AmharicPack/AmharicPack.apk|48a9f93bfd8fe2d579955a16e81a91ed7c8c5f5c
+-vendor/operator/app/ArabicPack/ArabicPack.apk|5bab7742e05454291da5759cec5fd0d8d9243b52
+-vendor/operator/app/Baidu_Location/Baidu_Location.apk|24b3967bc3c1a91767ac26e347070781b61d4804
+-vendor/operator/app/BeautySnap/BeautySnap.apk|f9710e4bdbb727384448de4a8c272f070f72c0b4
+-vendor/operator/app/BengaliPack/BengaliPack.apk|e6f539b05140709addd5800796b7a934d9f19862
+-vendor/operator/app/BoomPlayer/BoomPlayer.apk|74ed6a32dc8be0aa6ee966493915bb2997f1c5ff
+-vendor/operator/app/DualApp/DualApp.apk|8c17fa27b365421135e7723fa69249e7e0b5e172
+-vendor/operator/app/Facebook/Facebook.apk|9692de286d66b281b3776db4d749560b0eec5652
+-vendor/operator/app/FacebookMessenger/FacebookMessenger.apk|f048cc146221acc28701e73badf65b46763c7c19
+-vendor/operator/app/FrenchPack/FrenchPack.apk|d2af7217c847326261213993474b8696a12a298c
+-vendor/operator/app/HausaPack/HausaPack.apk|357c7b30f7449fc35b1da16734399309e3b68bc2
+-vendor/operator/app/HindilatinPack/HindilatinPack.apk|42ee1007188fa0098a6e70adff313cb51158197c
+-vendor/operator/app/HindiPack/HindiPack.apk|97d2a11da79e50ba1f62fa849972f5a0c672e96d
+-vendor/operator/app/Instagram/Instagram.apk|da43930e35bc2bbdd0adda4d86d97597ceabc611
+-vendor/operator/app/Operamini/Operamini.apk|49d7f08abf1b97b354c4e70e7dd7bc8adf4bf0c8
+-vendor/operator/app/OromoPack/OromoPack.apk|f6ac65c4715a4a42de2bdfd077c296006156c731
+-vendor/operator/app/Palmchat/Palmchat.apk|961619050c9f5d6bb1e937276d789c753bb9f1ae
+-vendor/operator/app/PortuguesebrPack/PortuguesebrPack.apk|adb371cd2eb39010cde35755caafda23fba3d5c6
+-vendor/operator/app/PortugueseptPack/PortugueseptPack.apk|6e59a4fb26a57176ed3b3903943a511d75670896
+-vendor/operator/app/SkinPack0DefaultWhite/SkinPack0DefaultWhite.apk|2291494d8c7e2b7c14609b439c6163b6a7233140
+-vendor/operator/app/SwahiliPack/SwahiliPack.apk|4a5d7e28a5c8262a83f4656840c1ce407dd66756
+-vendor/operator/app/TouchPal/TouchPal.apk|f9345fbd252e06430903a136b991a60907e3140e
+-vendor/operator/app/UrduPack/UrduPack.apk|1f209fd4bb6ee283ed0b9725219eff3e0f3b3732
+-vendor/operator/app/VietnamPack/VietnamPack.apk|8aca6f1e7eca8e026dfeaac3f0cb0d1ac0bf0052
+-vendor/operator/app/VietnamSimplePack/VietnamSimplePack.apk|67fdd1789f3780962de56a594acf4c14baf754d6
+-vendor/operator/app/WhatsAppMessenger.apk|e07bb2ac06dc084a5e6722a665c6c946f49743cc
+-vendor/operator/app/Xender/Xender.apk|21735267bfcc2a77970fd2a036bd2fcc018b1c4d

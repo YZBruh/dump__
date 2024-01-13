@@ -1,0 +1,4 @@
+CMD_SET_CPU_CORE com.ludashi.benchmark 4
+CMD_SET_CPU_FREQ com.ludashi.benchmark 1300000
+CMD_SET_CPU_CORE com.antutu.ABenchMark 4
+CMD_SET_CPU_FREQ com.antutu.ABenchMark 1300000

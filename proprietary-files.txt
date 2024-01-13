@@ -1,0 +1,98 @@
+# All blobs from S11-user 6.0 MRA58K 1504794250 release-keys, unless pinned
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger
+lib/libshowlogo.so
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/catcher_filter_1_wg_n.bin
+etc/firmware/modem_1_wg_n.img
+etc/firmware/mt6580/mt6580_fm_v1_coeff.bin
+etc/firmware/mt6580/mt6580_fm_v1_patch.bin
+etc/firmware/mt6580/mt6580_fm_v2_coeff.bin
+etc/firmware/mt6580/mt6580_fm_v2_patch.bin
+etc/firmware/mt6580/mt6580_fm_v3_coeff.bin
+etc/firmware/mt6580/mt6580_fm_v3_patch.bin
+etc/firmware/mt6580/mt6580_fm_v4_coeff.bin
+etc/firmware/mt6580/mt6580_fm_v4_patch.bin
+etc/firmware/mt6580/mt6580_fm_v5_coeff.bin
+etc/firmware/mt6580/mt6580_fm_v5_patch.bin
+etc/firmware/pcm_deepidle.bin
+etc/firmware/pcm_sodi.bin
+etc/firmware/pcm_suspend.bin
+etc/firmware/ROMv2_lm_patch_1_0_hdr.bin
+etc/firmware/ROMv2_lm_patch_1_1_hdr.bin
+etc/firmware/WIFI_RAM_CODE_6580
+etc/firmware/WMT_SOC.cfg
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L3.so
+-vendor/operator/app/AmharicPack/AmharicPack.apk
+-vendor/operator/app/ArabicPack/ArabicPack.apk
+-vendor/operator/app/Baidu_Location/Baidu_Location.apk
+-vendor/operator/app/BeautySnap/BeautySnap.apk
+-vendor/operator/app/BengaliPack/BengaliPack.apk
+-vendor/operator/app/BoomPlayer/BoomPlayer.apk
+-vendor/operator/app/DualApp/DualApp.apk
+-vendor/operator/app/Facebook/Facebook.apk
+-vendor/operator/app/FacebookMessenger/FacebookMessenger.apk
+-vendor/operator/app/FrenchPack/FrenchPack.apk
+-vendor/operator/app/HausaPack/HausaPack.apk
+-vendor/operator/app/HindilatinPack/HindilatinPack.apk
+-vendor/operator/app/HindiPack/HindiPack.apk
+-vendor/operator/app/Instagram/Instagram.apk
+-vendor/operator/app/Operamini/Operamini.apk
+-vendor/operator/app/OromoPack/OromoPack.apk
+-vendor/operator/app/Palmchat/Palmchat.apk
+-vendor/operator/app/PortuguesebrPack/PortuguesebrPack.apk
+-vendor/operator/app/PortugueseptPack/PortugueseptPack.apk
+-vendor/operator/app/SkinPack0DefaultWhite/SkinPack0DefaultWhite.apk
+-vendor/operator/app/SwahiliPack/SwahiliPack.apk
+-vendor/operator/app/TouchPal/TouchPal.apk
+-vendor/operator/app/UrduPack/UrduPack.apk
+-vendor/operator/app/VietnamPack/VietnamPack.apk
+-vendor/operator/app/VietnamSimplePack/VietnamSimplePack.apk
+-vendor/operator/app/WhatsAppMessenger.apk
+-vendor/operator/app/Xender/Xender.apk

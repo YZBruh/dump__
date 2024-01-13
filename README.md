@@ -1,0 +1,20 @@
+## S11-user 6.0 MRA58K 1504794250 release-keys
+- Manufacturer: itel
+- Platform: mt6580
+- Codename: S11
+- Brand: Itel
+- Flavor: S11-user
+- Release Version: 6.0
+- Kernel Version: 
+- Id: MRA58K
+- Incremental: 1504794250
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-US
+- Screen Density: 240
+- Fingerprint: Itel/S11/S11:6.0/MRA58K/S11-I801-6.0-V065-170907:user/release-keys
+- OTA version: 
+- Branch: S11-user-6.0-MRA58K-1504794250-release-keys
+- Repo: itel_s11_dump

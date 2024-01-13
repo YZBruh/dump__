@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apks>
+    
+    <apk>
+        <name>caler</name>
+        <path>/system/apk_rec/caler.apk</path>
+        <reverse>1</reverse>
+        <country>"Ethiopia"</country>
+    </apk>
+
+  
+	
+</apks>
